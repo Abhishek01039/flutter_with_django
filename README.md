@@ -1,4 +1,4 @@
-# flutterweb2
+# flutter with Django
 
 A new Flutter project.
 
